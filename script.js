@@ -1,3 +1,4 @@
+API_KEY = process.env.API_KEY;
 
 const movieSearchBox = document.getElementById('movie-search-box');
 const searchList = document.getElementById('search-list-results');
